@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ВКонтакте</title>
+    <link rel = "stylesheet" type = "text/css" href = "style.css">
+    <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+
+<body>
+
+<div class="all">
+    <div class ="shapka">
+        <div class="shapka1">
+            <div class = "logo">
+                <b>VK</b>
+            </div>
+            <div class = "search">
+                <div class ="searchbox">
+                    <div class = "lupa">
+                        <i class="fa fa-search" aria-hidden="true"></i>
+                    </div>
+                    <div class = "poisk">
+                        <input type="text" placeholder="Поиск">
+                    </div>
+                </div>
+
+
+            </div>
+
+        </div>
+        <div class="shapka2">
+
+        </div>
+    </div>
+    <div class = "content">
+        <div class = "navbar">
+            <a href="#">Моя страница</a>
+            <br>
+            <a href="#">Новости</a>
+            <br>
+            <a href="#">Сообщения</a>
+            <br>
+            <a href="#">Друзья</a>
+            <br>
+            <a href="#">Группы</a>
+            <br>
+            <a href="#">Фотографии</a>
+            <br>
+            <a href="#">Музыка</a>
+            <br>
+            <a href="#">Видео</a>
+
+        </div>
+        <div class = "profile">
+            <div class = "myprofile">
+                <div class = "profilepicture">
+                    <img src = "https://assets.survivalinternational.org/pictures/9675/cam-pyg-baka-fw2-2014-508_article_column@2x.jpg">
+                </div>
+
+                <div class = "profilebutton">
+                    <a href ="#">Редактировать</a>
+                </div>
+
+
+            </div>
+            <div class = "friends">
+                <div class = "numoffriends">
+                    <div class = "friendstext">
+                        <a href = "#">Друзья</a>
+                    </div>
+                    <div class = "friendsnum">
+                        <a href = "#">355</a>
+                    </div>
+
+                </div>
+                <div class = "firstrow">
+                    <div class = friend>
+                        <img src="https://i.discogs.com/wlorWUDmm63P-Dd1D_pTh_A_pYw3Pvq3aczWeyZ6wKE/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI0MDk3/NzEtMTUyMjQxNTg2/OS02MDgzLmpwZWc.jpeg">
+                        <a href = "#">ASAP</a>
+                    </div>
+                    <div class = friend>
+                        <img src="https://upload.wikimedia.org/wikipedia/ru/5/5c/Tupac_Shakur.jpg">
+                        <a href = "#">Tupac</a>
+                    </div>
+                    <div class = friend>
+                        <img src="https://pbs.twimg.com/profile_images/1564375315526275072/7Xnua7BM_400x400.jpg">
+                        <a href = "#">Snoop</a>
+                    </div>
+                </div>
+                <div class = "secondrow">
+                    <div class = friend>
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Official_portrait_of_Barack_Obama.jpg/440px-Official_portrait_of_Barack_Obama.jpg">
+                        <a href = "#">Obama</a>
+                    </div>
+                    <div class = friend>
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kevin_Hart_2014_%28cropped_2%29.jpg/220px-Kevin_Hart_2014_%28cropped_2%29.jpg">
+                        <a href = "#">Kevin</a>
+                    </div>
+                    <div class = friend>
+                        <img src="https://cdn.nba.com/headshots/nba/latest/1040x760/406.png">
+                        <a href = "#">Shac</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class = "main">
+            <div class = "info">
+                <div class ="status">
+                    <div class="haeder">
+                        <div class = "name" >
+                            <p>Takirov Arktur</p>
+                        </div>
+                        <div class ="quote">
+                            <p>Life is good:)</p>
+                        </div>
+                    </div>
+                    <div class = "onoff">
+                        <p>Online</p>
+                    </div>
+                </div>
+                <div class = "maininfo">
+                    <div class = "maininfotext1">
+                        <p>День рождения:</p>
+                        <br>
+                        <p>Город:</p>
+                        <br>
+                        <p>Семейное положение:</p>
+                        <br>
+                        <p>Место работы:</p>
+                        <br>
+                        <p>Веб-сайт:</p>
+                    </div>
+                    <div class = "maininfotext2">
+                        <p>16 сентября 2002 г.</p>
+                        <br>
+                        <p>Кульсары</p>
+                        <br>
+                        <p>Холостой</p>
+                        <br>
+                        <p>АУЭС</p>
+                        <br>
+                        <p>http://www.baibolaiyk.kz</p>
+                    </div>
+                </div>
+                <div class = "numinfo">
+                    <div class = "numinfotext">
+                        <div class = "int">
+                            355
+                        </div>
+                        <div class = "string">
+                            друзей
+                        </div>
+                    </div>
+                    <div class = "numinfotext">
+                        <div class = "int">
+                            13
+                        </div>
+                        <div class = "string">
+                            подписчика
+                        </div>
+                    </div>
+                    <div class = "numinfotext">
+                        <div class = "int">
+                            17
+                        </div>
+                        <div class = "string">
+                            фотографии
+                        </div>
+                    </div>
+                    <div class = "numinfotext">
+                        <div class = "int">
+                            546
+                        </div>
+                        <div class = "string">
+                            видеозаписей
+                        </div>
+                    </div>
+                    <div class = "numinfotext">
+                        <div class = "int">
+                            234
+                        </div>
+                        <div class = "string">
+                            аудиозаписей
+                        </div>
+                    </div>
+                    <div class = "numinfotext">
+                        <div class = "int">
+                            116
+                        </div>
+                        <div class = "string">
+                            страниц
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class = "photos">
+                <div class = "photostext">
+                    <div class = "photographtext">
+                        <a href = "#">Мои фотографии</a>
+                    </div>
+                    <div class ="photographnum">
+                        <a href = "#">17</a>
+                    </div>
+                </div>
+                <div class = "images">
+                    <div class="photo">
+                        <img src = "https://www.ghafla.com/ke/wp-content/uploads/sites/4/2019/09/48762FF2-B5AF-447D-A41C-387A7BC0112F.jpeg">
+                    </div>
+                    <div class="photo">
+                        <img src = "https://media.wbur.org/wp/2020/07/Emmanuel-1000x776.jpg">
+                    </div>
+
+                    <div class="photo">
+                        <img src = "https://u.newsua.one/uploads/images/default/34crc535n4cr35.webp">
+                    </div>
+                    <div class="photo">
+                        <img src = "https://www.meme-arsenal.com/memes/ec5d2735f4e53f86625cb53da98cdb13.jpg">
+                    </div>
+
+                </div>
+            </div>
+            <div class = "article">
+                <div class = "author">
+                    <div class = "ava">
+                        <img src = "https://assets.survivalinternational.org/pictures/9675/cam-pyg-baka-fw2-2014-508_article_column@2x.jpg">
+                    </div>
+                    <div class = "date">
+                        <div class = "myname">
+                            Takirov Arktur
+                        </div>
+                        <div class = "time">
+                            8 март в 11:45
+                        </div>
+                    </div>
+                </div>
+                <div class = "wall">
+                    От всего сердца поздравляю тебя с 8 Марта! Желаю всего самого доброго, светлого и прекрасного, что только может быть в нашей жизни! Желаю, чтобы рядом с тобой всегда были родные люди, верные друзья и любящий мужчина. Весеннего тебе настроения, солнечных улыбок, больших успехов во всём и огромного, как сам Земной шар, счастья! Поздравляю с Международным женским днем! В этот прекрасный весенний праздник желаю тебе огромного счастья, озорного блеска в глазах, душевной теплоты. Ты – восхитительная женщина. Пусть всё складывается именно так, как ты хочешь, и пусть Вселенная ни на миг не откладывает исполнение твоих желаний! Поздравляем вас с Восьмым марта, наши прекрасные, неповторимые женщины! Пусть ваши улыбки всегда будут счастливыми, смех звонким, эмоции радостными! Пусть семейные хлопоты доставляют удовольствие, а карьерные достижения вызывают гордость!
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>
